@@ -3,3 +3,6 @@ ipykernel
 numpy
 pandas
 textblob
+requests
+python-dotenv
+matplotlib
